@@ -1,0 +1,16 @@
+{
+  "name": "test-paypal-version-2",
+  "version": "1.0.0",
+  "description": "Prueba para paypal, verificar si realiza transacciones en sandbox",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "author": "Dany-Nok",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "paypal-rest-sdk": "^1.8.1"
+  }
+}
